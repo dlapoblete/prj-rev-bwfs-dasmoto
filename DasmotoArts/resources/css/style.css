@@ -1,0 +1,31 @@
+html {
+  font-family: Helvetica;
+}
+h1,
+h2,
+h3,
+.price {
+  font-weight: bold;
+}
+h1 {
+  font-size: 100px;
+  color: khaki;
+  background-image: url(/Users/Atlantis/Desktop/DasmotoArts/resources/pattern.jpeg);
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 32px;
+}
+.brushes {
+  background-color: mediumspringgreen;
+}
+.frames {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblue;
+}
+.price {
+  color: blue;
+}
